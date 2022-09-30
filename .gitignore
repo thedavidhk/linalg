@@ -1,0 +1,6 @@
+build
+bin
+.nvimrc
+.clang-format
+compile_commands.json
+tags
